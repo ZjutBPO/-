@@ -19,6 +19,13 @@
 
     border-radius: 0px;
 
+    .nav_container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0;
+    }
+
     ul {
         list-style: none;
         padding-inline-start: 0px;
@@ -30,7 +37,6 @@
     }
 
     .nav-title {
-        padding-left: 20px;
         height: 60px;
         line-height: 60px;
         text-align: center;
@@ -39,15 +45,15 @@
         color: black;
     }
 
+    #NowTime{
+        display: inline-block;
+        font-size: 2rem;
+        font-weight: 600;
+    }
     // 导航栏
     .nav-list {
-        @media (min-width: 768px) {
-            float: right;
-            margin: 0px;
-            height: 60px;
-            display: flex;
-            align-items: center;
-        }
+        display: flex;
+        align-items: center;
         
         margin-left: 40px;
 

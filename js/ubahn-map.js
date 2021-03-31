@@ -1,11 +1,6 @@
 //naive way of assuming mobile
-var isMobile = window.screen.width < window.screen.height ? true : false
-var width = isMobile ?
-  window.devicePixelRatio * window.screen.width :
-  screen.width;
-var height = isMobile ?
-  window.devicePixelRatio * window.screen.height :
-  screen.height;
+var width = $("#ubahn-map").width();
+var height = $("#ubahn-map").height();
 
 var container = d3.select('#ubahn-map');
 var focusStations;
@@ -67,8 +62,8 @@ d3.json('./json/subway.json').then(function (data) {
     .on('zoom', zoomed);
 
   var zoomContainer = svg.call(zoom);
-  var initialScale = 1.1;
-  var initialTranslate = [-width/15, height / 25];
+  var initialScale = 1;
+  var initialTranslate = [-width*0.07, 30];
 
   zoom.scaleTo(zoomContainer, initialScale);
   zoom.translateTo(
