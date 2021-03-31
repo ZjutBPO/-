@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <div id="svg-wrap">
+        <!-- <svg t="1616599423203" class="icon" viewBox="0 0 1087 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            p-id="2036" width="20" height="20">
+            <path
+                d="M1009.275273 540.720818a36.07964 36.07964 0 0 1-35.604907-35.604908A457.64175 457.64175 0 0 0 967.97358 433.431362 427.258895 427.258895 0 0 0 130.546146 403.997971a47.473211 47.473211 0 0 1-38.4533 36.554372 47.473211 47.473211 0 0 1-47.473211-18.989284l-4.747321-9.494642L2.368478 310.475746a36.554372 36.554372 0 0 1 22.312409-47.47321 35.604908 35.604908 0 0 1 47.47321 22.312409l10.918839 32.281783A498.943443 498.943443 0 0 1 1046.77911 505.11591a35.604908 35.604908 0 0 1-37.503837 35.604908zM536.916828 1023.998101A497.993979 497.993979 0 0 1 44.619635 609.082241a552.113439 552.113439 0 0 1-6.646249-84.027583 35.604908 35.604908 0 0 1 71.209815 0 457.64175 457.64175 0 0 0 5.696786 72.15928 427.258895 427.258895 0 0 0 836.952702 28.958659 47.473211 47.473211 0 0 1 38.4533-37.029105 47.473211 47.473211 0 0 1 47.473211 19.464017l4.747321 9.494642 36.07964 100.168474a36.554372 36.554372 0 0 1-22.312409 47.473211 35.604908 35.604908 0 0 1-45.09955-22.312409l-11.868303-32.756516a497.519247 497.519247 0 0 1-462.389071 313.32319z"
+                fill="#000000" p-id="2037"></path>
+        </svg> -->
+    </div>
+    <canvas id="canvas"></canvas>
+    <script>
+        window.onload = function () {
+            //获取svg内容
+            var svg = document.getElementById('svg-wrap').innerHTML;
+
+            var canvas = document.getElementById('canvas');
+            var c = canvas.getContext('2d');
+
+            //新建Image对象
+            var img = new Image();
+
+            //svg内容
+            img.src = 'data:image/svg+xml,' + unescape(encodeURIComponent(svg));//svg内容中可以有中文字符
+            img.src = 'data:image/svg+xml,' + svg;//svg内容中不能有中文字符
+
+            //svg编码成base64
+            img.src = 'data:image/svg+xml;base64,' + window.btoa(unescape(encodeURIComponent(svg)));//svg内容中可以有中文字符
+            img.src = 'data:image/svg+xml;base64,' + window.btoa(svg);//svg内容中不能有中文字符
+
+            //图片初始化完成后调用
+            img.onload = function () {
+                //将canvas的宽高设置为图像的宽高
+                canvas.width = 300;
+                canvas.height = 300;
+
+                //canvas画图片
+                c.drawImage(img, 0, 0);
+
+                //将图片添加到body中
+                document.body.appendChild(img)
+            }
+        }
+    </script>
+</body>
+
+</html>

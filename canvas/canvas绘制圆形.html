@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>canvas绘制圆形</title>
+    <style type="text/css">
+        body{
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+<canvas id="tutorial" width="500" height="500"></canvas>
+<script type="text/javascript">
+    function draw(){
+        var canvas = document.getElementById('tutorial');
+        if (!canvas.getContext) return;
+        var ctx = canvas.getContext("2d");
+        ctx.beginPath();
+        ctx.arc(50, 50, 40, 0, Math.PI / 2, false);
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.arc(150, 50, 40, 0, -Math.PI / 2, true);
+        ctx.closePath();
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.arc(50, 150, 40, -Math.PI / 2, Math.PI / 2, false);
+        ctx.fill();
+
+        ctx.beginPath();
+        ctx.arc(150, 150, 40, 0, Math.PI, false);
+        ctx.fill();
+
+    }
+    draw();
+</script>
+</body>
+</html>

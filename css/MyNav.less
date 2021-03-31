@@ -1,0 +1,75 @@
+#MyNav {
+    @media (min-width: 1500px) {
+        .nav_container {
+            width: 1250px;
+        }
+    }
+
+    @media (min-width: 1800px) {
+        .nav_container {
+            width: 1600px;
+        }
+    }
+
+    @media (min-width: 2400px) {
+        .nav_container {
+            width: 2200px;
+        }
+    }
+
+    border-radius: 0px;
+
+    ul {
+        list-style: none;
+        padding-inline-start: 0px;
+        margin: 0;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .nav-title {
+        padding-left: 20px;
+        height: 60px;
+        line-height: 60px;
+        text-align: center;
+        font-weight: 500;
+        font-size: 20px;
+        color: black;
+    }
+
+    // 导航栏
+    .nav-list {
+        @media (min-width: 768px) {
+            float: right;
+            margin: 0px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+        }
+        
+        margin-left: 40px;
+
+        li {
+            display: flex;
+            margin: 0px 6px;
+
+            .nav_button {
+                .icon {
+                    width: 20px;
+                    height: 20px;
+                    margin-right: 5px;
+                }
+    
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 16px;
+                color: black;
+            }
+        }
+
+
+    }
+}

@@ -1,0 +1,2684 @@
+{
+    "stations": {
+        "sta104": {
+            "id": 1,
+            "name": "sta104",
+            "label": "sta104"
+        },
+        "sta65": {
+            "id": 2,
+            "name": "sta65",
+            "label": "sta65"
+        },
+        "sta49": {
+            "id": 3,
+            "name": "sta49",
+            "label": "sta49"
+        },
+        "sta149": {
+            "id": 4,
+            "name": "sta149",
+            "label": "sta149"
+        },
+        "sta74": {
+            "id": 5,
+            "name": "sta74",
+            "label": "sta74"
+        },
+        "sta128": {
+            "id": 6,
+            "name": "sta128",
+            "label": "sta128"
+        },
+        "sta34": {
+            "id": 7,
+            "name": "sta34",
+            "label": "sta34"
+        },
+        "sta106": {
+            "id": 8,
+            "name": "sta106",
+            "label": "sta106"
+        },
+        "sta110": {
+            "id": 9,
+            "name": "sta110",
+            "label": "sta110"
+        },
+        "sta97": {
+            "id": 10,
+            "name": "sta97",
+            "label": "sta97"
+        },
+        "sta80": {
+            "id": 11,
+            "name": "sta80",
+            "label": "sta80"
+        },
+        "sta89": {
+            "id": 12,
+            "name": "sta89",
+            "label": "sta89"
+        },
+        "sta64": {
+            "id": 13,
+            "name": "sta64",
+            "label": "sta64"
+        },
+        "sta150": {
+            "id": 14,
+            "name": "sta150",
+            "label": "sta150"
+        },
+        "sta154": {
+            "id": 15,
+            "name": "sta154",
+            "label": "sta154"
+        },
+        "sta107": {
+            "id": 16,
+            "name": "sta107",
+            "label": "sta107"
+        },
+        "sta83": {
+            "id": 17,
+            "name": "sta83",
+            "label": "sta83"
+        },
+        "sta108": {
+            "id": 18,
+            "name": "sta108",
+            "label": "sta108"
+        },
+        "sta159": {
+            "id": 19,
+            "name": "sta159",
+            "label": "sta159"
+        },
+        "sta1": {
+            "id": 20,
+            "name": "sta1",
+            "label": "sta1"
+        },
+        "sta51": {
+            "id": 21,
+            "name": "sta51",
+            "label": "sta51"
+        },
+        "sta105": {
+            "id": 22,
+            "name": "sta105",
+            "label": "sta105"
+        },
+        "sta24": {
+            "id": 23,
+            "name": "sta24",
+            "label": "sta24"
+        },
+        "sta139": {
+            "id": 24,
+            "name": "sta139",
+            "label": "sta139"
+        },
+        "sta71": {
+            "id": 25,
+            "name": "sta71",
+            "label": "sta71"
+        },
+        "sta57": {
+            "id": 26,
+            "name": "sta57",
+            "label": "sta57"
+        },
+        "sta76": {
+            "id": 27,
+            "name": "sta76",
+            "label": "sta76"
+        },
+        "sta52": {
+            "id": 28,
+            "name": "sta52",
+            "label": "sta52"
+        },
+        "sta68": {
+            "id": 29,
+            "name": "sta68",
+            "label": "sta68"
+        },
+        "sta151": {
+            "id": 30,
+            "name": "sta151",
+            "label": "sta151"
+        },
+        "sta48": {
+            "id": 31,
+            "name": "sta48",
+            "label": "sta48"
+        },
+        "sta27": {
+            "id": 32,
+            "name": "sta27",
+            "label": "sta27"
+        },
+        "sta81": {
+            "id": 33,
+            "name": "sta81",
+            "label": "sta81"
+        },
+        "sta127": {
+            "id": 34,
+            "name": "sta127",
+            "label": "sta127"
+        },
+        "sta123": {
+            "id": 35,
+            "name": "sta123",
+            "label": "sta123"
+        },
+        "sta47": {
+            "id": 36,
+            "name": "sta47",
+            "label": "sta47"
+        },
+        "sta18": {
+            "id": 37,
+            "name": "sta18",
+            "label": "sta18"
+        },
+        "sta79": {
+            "id": 38,
+            "name": "sta79",
+            "label": "sta79"
+        },
+        "sta78": {
+            "id": 39,
+            "name": "sta78",
+            "label": "sta78"
+        },
+        "sta53": {
+            "id": 40,
+            "name": "sta53",
+            "label": "sta53"
+        },
+        "sta163": {
+            "id": 41,
+            "name": "sta163",
+            "label": "sta163"
+        },
+        "sta9": {
+            "id": 42,
+            "name": "sta9",
+            "label": "sta9"
+        },
+        "sta129": {
+            "id": 43,
+            "name": "sta129",
+            "label": "sta129"
+        },
+        "sta155": {
+            "id": 44,
+            "name": "sta155",
+            "label": "sta155"
+        },
+        "sta143": {
+            "id": 45,
+            "name": "sta143",
+            "label": "sta143"
+        },
+        "sta156": {
+            "id": 46,
+            "name": "sta156",
+            "label": "sta156"
+        },
+        "sta61": {
+            "id": 47,
+            "name": "sta61",
+            "label": "sta61"
+        },
+        "sta50": {
+            "id": 48,
+            "name": "sta50",
+            "label": "sta50"
+        },
+        "sta119": {
+            "id": 49,
+            "name": "sta119",
+            "label": "sta119"
+        },
+        "sta66": {
+            "id": 50,
+            "name": "sta66",
+            "label": "sta66"
+        },
+        "sta12": {
+            "id": 51,
+            "name": "sta12",
+            "label": "sta12"
+        },
+        "sta161": {
+            "id": 52,
+            "name": "sta161",
+            "label": "sta161"
+        },
+        "sta21": {
+            "id": 53,
+            "name": "sta21",
+            "label": "sta21"
+        },
+        "sta133": {
+            "id": 54,
+            "name": "sta133",
+            "label": "sta133"
+        },
+        "sta22": {
+            "id": 55,
+            "name": "sta22",
+            "label": "sta22"
+        },
+        "sta138": {
+            "id": 56,
+            "name": "sta138",
+            "label": "sta138"
+        },
+        "sta41": {
+            "id": 57,
+            "name": "sta41",
+            "label": "sta41"
+        },
+        "sta30": {
+            "id": 58,
+            "name": "sta30",
+            "label": "sta30"
+        },
+        "sta67": {
+            "id": 59,
+            "name": "sta67",
+            "label": "sta67"
+        },
+        "sta144": {
+            "id": 60,
+            "name": "sta144",
+            "label": "sta144"
+        },
+        "sta5": {
+            "id": 61,
+            "name": "sta5",
+            "label": "sta5"
+        },
+        "sta98": {
+            "id": 62,
+            "name": "sta98",
+            "label": "sta98"
+        },
+        "sta29": {
+            "id": 63,
+            "name": "sta29",
+            "label": "sta29"
+        },
+        "sta126": {
+            "id": 64,
+            "name": "sta126",
+            "label": "sta126"
+        },
+        "sta40": {
+            "id": 65,
+            "name": "sta40",
+            "label": "sta40"
+        },
+        "sta131": {
+            "id": 66,
+            "name": "sta131",
+            "label": "sta131"
+        },
+        "sta39": {
+            "id": 67,
+            "name": "sta39",
+            "label": "sta39"
+        },
+        "sta100": {
+            "id": 68,
+            "name": "sta100",
+            "label": "sta100"
+        },
+        "sta167": {
+            "id": 69,
+            "name": "sta167",
+            "label": "sta167"
+        },
+        "sta113": {
+            "id": 70,
+            "name": "sta113",
+            "label": "sta113"
+        },
+        "sta141": {
+            "id": 71,
+            "name": "sta141",
+            "label": "sta141"
+        },
+        "sta142": {
+            "id": 72,
+            "name": "sta142",
+            "label": "sta142"
+        },
+        "sta158": {
+            "id": 73,
+            "name": "sta158",
+            "label": "sta158"
+        },
+        "sta44": {
+            "id": 74,
+            "name": "sta44",
+            "label": "sta44"
+        },
+        "sta117": {
+            "id": 75,
+            "name": "sta117",
+            "label": "sta117"
+        },
+        "sta147": {
+            "id": 76,
+            "name": "sta147",
+            "label": "sta147"
+        },
+        "sta42": {
+            "id": 77,
+            "name": "sta42",
+            "label": "sta42"
+        },
+        "sta35": {
+            "id": 78,
+            "name": "sta35",
+            "label": "sta35"
+        },
+        "sta109": {
+            "id": 79,
+            "name": "sta109",
+            "label": "sta109"
+        },
+        "sta33": {
+            "id": 80,
+            "name": "sta33",
+            "label": "sta33"
+        },
+        "sta112": {
+            "id": 81,
+            "name": "sta112",
+            "label": "sta112"
+        },
+        "sta153": {
+            "id": 82,
+            "name": "sta153",
+            "label": "sta153"
+        },
+        "sta125": {
+            "id": 83,
+            "name": "sta125",
+            "label": "sta125"
+        },
+        "sta121": {
+            "id": 84,
+            "name": "sta121",
+            "label": "sta121"
+        },
+        "sta11": {
+            "id": 85,
+            "name": "sta11",
+            "label": "sta11"
+        },
+        "sta84": {
+            "id": 86,
+            "name": "sta84",
+            "label": "sta84"
+        },
+        "sta59": {
+            "id": 87,
+            "name": "sta59",
+            "label": "sta59"
+        },
+        "sta19": {
+            "id": 88,
+            "name": "sta19",
+            "label": "sta19"
+        },
+        "sta62": {
+            "id": 89,
+            "name": "sta62",
+            "label": "sta62"
+        },
+        "sta165": {
+            "id": 90,
+            "name": "sta165",
+            "label": "sta165"
+        },
+        "sta58": {
+            "id": 91,
+            "name": "sta58",
+            "label": "sta58"
+        },
+        "sta38": {
+            "id": 92,
+            "name": "sta38",
+            "label": "sta38"
+        },
+        "sta54": {
+            "id": 93,
+            "name": "sta54",
+            "label": "sta54"
+        },
+        "sta69": {
+            "id": 94,
+            "name": "sta69",
+            "label": "sta69"
+        },
+        "sta16": {
+            "id": 95,
+            "name": "sta16",
+            "label": "sta16"
+        },
+        "sta37": {
+            "id": 96,
+            "name": "sta37",
+            "label": "sta37"
+        },
+        "sta132": {
+            "id": 97,
+            "name": "sta132",
+            "label": "sta132"
+        },
+        "sta96": {
+            "id": 98,
+            "name": "sta96",
+            "label": "sta96"
+        },
+        "sta10": {
+            "id": 99,
+            "name": "sta10",
+            "label": "sta10"
+        },
+        "sta43": {
+            "id": 100,
+            "name": "sta43",
+            "label": "sta43"
+        },
+        "sta157": {
+            "id": 101,
+            "name": "sta157",
+            "label": "sta157"
+        },
+        "sta114": {
+            "id": 102,
+            "name": "sta114",
+            "label": "sta114"
+        },
+        "sta168": {
+            "id": 103,
+            "name": "sta168",
+            "label": "sta168"
+        },
+        "sta135": {
+            "id": 104,
+            "name": "sta135",
+            "label": "sta135"
+        },
+        "sta134": {
+            "id": 105,
+            "name": "sta134",
+            "label": "sta134"
+        },
+        "sta85": {
+            "id": 106,
+            "name": "sta85",
+            "label": "sta85"
+        },
+        "sta2": {
+            "id": 107,
+            "name": "sta2",
+            "label": "sta2"
+        },
+        "sta4": {
+            "id": 108,
+            "name": "sta4",
+            "label": "sta4"
+        },
+        "sta103": {
+            "id": 109,
+            "name": "sta103",
+            "label": "sta103"
+        },
+        "sta145": {
+            "id": 110,
+            "name": "sta145",
+            "label": "sta145"
+        },
+        "sta88": {
+            "id": 111,
+            "name": "sta88",
+            "label": "sta88"
+        },
+        "sta87": {
+            "id": 112,
+            "name": "sta87",
+            "label": "sta87"
+        },
+        "sta94": {
+            "id": 113,
+            "name": "sta94",
+            "label": "sta94"
+        },
+        "sta7": {
+            "id": 114,
+            "name": "sta7",
+            "label": "sta7"
+        },
+        "sta6": {
+            "id": 115,
+            "name": "sta6",
+            "label": "sta6"
+        },
+        "sta8": {
+            "id": 116,
+            "name": "sta8",
+            "label": "sta8"
+        },
+        "sta75": {
+            "id": 117,
+            "name": "sta75",
+            "label": "sta75"
+        },
+        "sta102": {
+            "id": 118,
+            "name": "sta102",
+            "label": "sta102"
+        },
+        "sta28": {
+            "id": 119,
+            "name": "sta28",
+            "label": "sta28"
+        },
+        "sta124": {
+            "id": 120,
+            "name": "sta124",
+            "label": "sta124"
+        },
+        "sta99": {
+            "id": 121,
+            "name": "sta99",
+            "label": "sta99"
+        },
+        "sta166": {
+            "id": 122,
+            "name": "sta166",
+            "label": "sta166"
+        },
+        "sta36": {
+            "id": 123,
+            "name": "sta36",
+            "label": "sta36"
+        },
+        "sta122": {
+            "id": 124,
+            "name": "sta122",
+            "label": "sta122"
+        },
+        "sta77": {
+            "id": 125,
+            "name": "sta77",
+            "label": "sta77"
+        },
+        "sta140": {
+            "id": 126,
+            "name": "sta140",
+            "label": "sta140"
+        },
+        "sta111": {
+            "id": 127,
+            "name": "sta111",
+            "label": "sta111"
+        },
+        "sta13": {
+            "id": 128,
+            "name": "sta13",
+            "label": "sta13"
+        },
+        "sta70": {
+            "id": 129,
+            "name": "sta70",
+            "label": "sta70"
+        },
+        "sta55": {
+            "id": 130,
+            "name": "sta55",
+            "label": "sta55"
+        },
+        "sta20": {
+            "id": 131,
+            "name": "sta20",
+            "label": "sta20"
+        },
+        "sta23": {
+            "id": 132,
+            "name": "sta23",
+            "label": "sta23"
+        },
+        "sta56": {
+            "id": 133,
+            "name": "sta56",
+            "label": "sta56"
+        },
+        "sta118": {
+            "id": 134,
+            "name": "sta118",
+            "label": "sta118"
+        },
+        "sta115": {
+            "id": 135,
+            "name": "sta115",
+            "label": "sta115"
+        },
+        "sta15": {
+            "id": 136,
+            "name": "sta15",
+            "label": "sta15"
+        },
+        "sta86": {
+            "id": 137,
+            "name": "sta86",
+            "label": "sta86"
+        },
+        "sta46": {
+            "id": 138,
+            "name": "sta46",
+            "label": "sta46"
+        },
+        "sta63": {
+            "id": 139,
+            "name": "sta63",
+            "label": "sta63"
+        },
+        "sta3": {
+            "id": 140,
+            "name": "sta3",
+            "label": "sta3"
+        },
+        "sta25": {
+            "id": 141,
+            "name": "sta25",
+            "label": "sta25"
+        },
+        "sta146": {
+            "id": 142,
+            "name": "sta146",
+            "label": "sta146"
+        },
+        "sta130": {
+            "id": 143,
+            "name": "sta130",
+            "label": "sta130"
+        },
+        "sta120": {
+            "id": 144,
+            "name": "sta120",
+            "label": "sta120"
+        },
+        "sta82": {
+            "id": 145,
+            "name": "sta82",
+            "label": "sta82"
+        },
+        "sta164": {
+            "id": 146,
+            "name": "sta164",
+            "label": "sta164"
+        },
+        "sta152": {
+            "id": 147,
+            "name": "sta152",
+            "label": "sta152"
+        },
+        "sta45": {
+            "id": 148,
+            "name": "sta45",
+            "label": "sta45"
+        },
+        "sta14": {
+            "id": 149,
+            "name": "sta14",
+            "label": "sta14"
+        },
+        "sta73": {
+            "id": 150,
+            "name": "sta73",
+            "label": "sta73"
+        },
+        "sta148": {
+            "id": 151,
+            "name": "sta148",
+            "label": "sta148"
+        },
+        "sta60": {
+            "id": 152,
+            "name": "sta60",
+            "label": "sta60"
+        },
+        "sta91": {
+            "id": 153,
+            "name": "sta91",
+            "label": "sta91"
+        },
+        "sta32": {
+            "id": 154,
+            "name": "sta32",
+            "label": "sta32"
+        },
+        "sta116": {
+            "id": 155,
+            "name": "sta116",
+            "label": "sta116"
+        },
+        "sta92": {
+            "id": 156,
+            "name": "sta92",
+            "label": "sta92"
+        },
+        "sta31": {
+            "id": 157,
+            "name": "sta31",
+            "label": "sta31"
+        },
+        "sta93": {
+            "id": 158,
+            "name": "sta93",
+            "label": "sta93"
+        },
+        "sta72": {
+            "id": 159,
+            "name": "sta72",
+            "label": "sta72"
+        },
+        "sta95": {
+            "id": 160,
+            "name": "sta95",
+            "label": "sta95"
+        },
+        "sta90": {
+            "id": 161,
+            "name": "sta90",
+            "label": "sta90"
+        },
+        "sta26": {
+            "id": 162,
+            "name": "sta26",
+            "label": "sta26"
+        },
+        "sta17": {
+            "id": 163,
+            "name": "sta17",
+            "label": "sta17"
+        },
+        "sta101": {
+            "id": 164,
+            "name": "sta101",
+            "label": "sta101"
+        },
+        "sta136": {
+            "id": 165,
+            "name": "sta136",
+            "label": "sta136"
+        },
+        "sta137": {
+            "id": 166,
+            "name": "sta137",
+            "label": "sta137"
+        }
+    },
+    "lines": [
+        {
+            "name": "U1",
+            "label": "U1",
+            "color": "#008200",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta104",
+                    "coords": [
+                        89.10000000000001,
+                        492.1
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5, -2],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line1.svg",
+                    "lineLabelPos": "N",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": 20
+                },
+                {
+                    "name": "sta65",
+                    "coords": [
+                        104.5,
+                        444.74
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5, -2]
+                },
+                {
+                    "name": "sta49",
+                    "coords": [
+                        115.5,
+                        409.21999999999997
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5, -2]
+                },
+                {
+                    "name": "sta149",
+                    "coords": [
+                        143.0,
+                        363.34
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5, -2]
+                },
+                {
+                    "name": "sta74",
+                    "coords": [
+                        181.5,
+                        324.11999999999995
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5, -2]
+                },
+                {
+                    "name": "sta128",
+                    "coords": [
+                        245.3,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta34",
+                    "coords": [
+                        302.5,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta106",
+                    "coords": [
+                        363.0,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta110",
+                    "coords": [
+                        398.2,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta97",
+                    "coords": [
+                        436.70000000000005,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta80",
+                    "coords": [
+                        498.3,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta89",
+                    "coords": [
+                        543.4,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta64",
+                    "coords": [
+                        596.2,
+                        324.11999999999995
+                    ],
+                    "labelPos": "NW",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,6]
+                },
+                {
+                    "name": "sta150",
+                    "coords": [
+                        643.5,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta154",
+                    "coords": [
+                        719.431926121372,
+                        324.11999999999995
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 5]
+                },
+                {
+                    "name": "sta107",
+                    "coords": [
+                        772.1999999999999,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta83",
+                    "coords": [
+                        820.6,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta108",
+                    "coords": [
+                        862.4,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta159",
+                    "coords": [
+                        907.5,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4]
+                },
+                {
+                    "name": "sta1",
+                    "coords": [
+                        976.8000000000001,
+                        324.11999999999995
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0, 4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line1.svg",
+                    "lineLabelPos": "E",
+                    "lineLabelShiftX": 12,
+                    "lineLabelShiftY": 10
+                }
+            ]
+        },
+        {
+            "name": "U2",
+            "label": "U2",
+            "color": "#00CFCD",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta51",
+                    "coords": [
+                        409.2,
+                        17.019999999999982
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,-4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line2.svg",
+                    "lineLabelPos": "W",
+                    "lineLabelShiftX": -32,
+                    "lineLabelShiftY": 10
+                },
+                {
+                    "name": "sta105",
+                    "coords": [
+                        440.0,
+                        25.159999999999968
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,-4]
+                },
+                {
+                    "name": "sta24",
+                    "coords": [
+                        476.3,
+                        34.780000000000086
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,-4]
+                },
+                {
+                    "name": "sta139",
+                    "coords": [
+                        501.6,
+                        52.539999999999964
+                    ],
+                    "labelPos": "SE",
+                    "labelBold": true,
+                    "labelShiftCoords":[2,-1]
+                },
+                {
+                    "name": "sta71",
+                    "coords": [
+                        501.6,
+                        82.88
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta57",
+                    "coords": [
+                        501.6,
+                        113.96000000000004
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta76",
+                    "coords": [
+                        501.6,
+                        145.03999999999996
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta52",
+                    "coords": [
+                        501.6,
+                        174.64
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta68",
+                    "coords": [
+                        501.6,
+                        210.89999999999998
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta151",
+                    "coords": [
+                        501.6,
+                        238.27999999999997
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta48",
+                    "coords": [
+                        509.3,
+                        264.92
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta27",
+                    "coords": [
+                        523.6,
+                        291.56
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta81",
+                    "coords": [
+                        555.5,
+                        349.28
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,0]
+                },
+                {
+                    "name": "sta127",
+                    "coords": [
+                        576.4,
+                        381.1
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta123",
+                    "coords": [
+                        607.2,
+                        381.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[7,4]
+                },
+                {
+                    "name": "sta47",
+                    "coords": [
+                        638.0,
+                        381.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,4]
+                },
+                {
+                    "name": "sta18",
+                    "coords": [
+                        682.0,
+                        381.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta79",
+                    "coords": [
+                        713.9,
+                        381.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta78",
+                    "coords": [
+                        745.8000000000001,
+                        381.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta53",
+                    "coords": [
+                        786.5,
+                        381.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta163",
+                    "coords": [
+                        810.6999999999999,
+                        381.1
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta9",
+                    "coords": [
+                        830.5,
+                        363.34
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta129",
+                    "coords": [
+                        848.1,
+                        341.14
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta108",
+                    "coords": [
+                        862.4,
+                        324.11999999999995
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line2.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -8
+                }
+            ]
+        },
+        {
+            "name": "U3",
+            "label": "U3",
+            "color": "#FF0000",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta155",
+                    "coords": [
+                        889.9000000000001,
+                        28.120000000000005
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line3.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -8
+                },
+                {
+                    "name": "sta143",
+                    "coords": [
+                        889.9000000000001,
+                        54.01999999999998
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta156",
+                    "coords": [
+                        889.9000000000001,
+                        78.43999999999994
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta61",
+                    "coords": [
+                        889.9000000000001,
+                        107.30000000000007
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta50",
+                    "coords": [
+                        889.9000000000001,
+                        138.38
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta119",
+                    "coords": [
+                        880.0,
+                        149.16692307692318
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta66",
+                    "coords": [
+                        860.2,
+                        170.74076923076927
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta12",
+                    "coords": [
+                        847.0,
+                        185.1233333333334
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta161",
+                    "coords": [
+                        829.4,
+                        204.30008547008558
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta21",
+                    "coords": [
+                        808.5,
+                        227.0724786324787
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta133",
+                    "coords": [
+                        790.9,
+                        246.24923076923085
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta22",
+                    "coords": [
+                        776.5999999999999,
+                        261.830341880342
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta138",
+                    "coords": [
+                        757.9,
+                        282.20564102564106
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta41",
+                    "coords": [
+                        742.5,
+                        298.98529914529917
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta30",
+                    "coords": [
+                        728.2,
+                        314.5664102564102
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta67",
+                    "coords": [
+                        699.6,
+                        345.72863247863245
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta144",
+                    "coords": [
+                        686.4,
+                        360.1111965811966
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta5",
+                    "coords": [
+                        641.3,
+                        409.25162393162395
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta98",
+                    "coords": [
+                        632.5,
+                        418.84
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta29",
+                    "coords": [
+                        632.5,
+                        482.48
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta126",
+                    "coords": [
+                        632.5,
+                        501.72
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta40",
+                    "coords": [
+                        632.5,
+                        537.24
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta131",
+                    "coords": [
+                        632.5,
+                        566.84
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta39",
+                    "coords": [
+                        632.5,
+                        604.58
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-1]
+                },
+                {
+                    "name": "sta100",
+                    "coords": [
+                        632.5,
+                        634.9200000000001
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,6]
+                },
+                {
+                    "name": "sta167",
+                    "coords": [
+                        660.0,
+                        641.5458865248228
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[2,-5]
+                },
+                {
+                    "name": "sta113",
+                    "coords": [
+                        679.8,
+                        646.3165248226951
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,6]
+                },
+                {
+                    "name": "sta141",
+                    "coords": [
+                        702.9,
+                        651.8822695035461
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[3,-5]
+                },
+                {
+                    "name": "sta142",
+                    "coords": [
+                        748.0,
+                        662.7487234042553
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-5]
+                },
+                {
+                    "name": "sta158",
+                    "coords": [
+                        819.5,
+                        679.9760283687943
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-5]
+                },
+                {
+                    "name": "sta44",
+                    "coords": [
+                        841.5,
+                        685.2767375886525
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,6]
+                },
+                {
+                    "name": "sta117",
+                    "coords": [
+                        867.9000000000001,
+                        691.6375886524823
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-5]
+                },
+                {
+                    "name": "sta147",
+                    "coords": [
+                        894.3,
+                        697.9984397163121
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,6]
+                },
+                {
+                    "name": "sta42",
+                    "coords": [
+                        921.8,
+                        704.6243262411348
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[5,-5]
+                },
+                {
+                    "name": "sta35",
+                    "coords": [
+                        942.6999999999999,
+                        709.66
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,5]
+                },
+                {
+                    "name": "sta109",
+                    "coords": [
+                        962.5,
+                        705.96
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,-2]
+                },
+                {
+                    "name": "sta33",
+                    "coords": [
+                        977.9,
+                        695.1683333333334
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,0]
+                },
+                {
+                    "name": "sta112",
+                    "coords": [
+                        991.1,
+                        685.9183333333333
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,0]
+                },
+                {
+                    "name": "sta153",
+                    "coords": [
+                        1006.5,
+                        675.1266666666667
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,0]
+                },
+                {
+                    "name": "sta125",
+                    "coords": [
+                        1030.7,
+                        658.1683333333333
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,0]
+                },
+                {
+                    "name": "sta121",
+                    "coords": [
+                        1048.3,
+                        645.835
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,0]
+                },
+                {
+                    "name": "sta11",
+                    "coords": [
+                        1068.1,
+                        631.96
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[6,0],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line3.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -8
+                }
+            ]
+        },
+        {
+            "name": "U4",
+            "label": "U4",
+            "color": "#008280",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta84",
+                    "coords": [
+                        599.5,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line4.svg",
+                    "lineLabelPos": "W",
+                    "lineLabelShiftX": -40,
+                    "lineLabelShiftY": 8
+                },
+                {
+                    "name": "sta59",
+                    "coords": [
+                        632.5,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta19",
+                    "coords": [
+                        689.7,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta62",
+                    "coords": [
+                        786.5,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta165",
+                    "coords": [
+                        833.8,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta58",
+                    "coords": [
+                        884.4000000000001,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta38",
+                    "coords": [
+                        932.8,
+                        581.64
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line4.svg",
+                    "lineLabelPos": "E",
+                    "lineLabelShiftX": 12,
+                    "lineLabelShiftY": 8
+                }
+            ]
+        },
+        {
+            "name": "U5",
+            "label": "U5",
+            "color": "#FEFF00",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta54",
+                    "coords": [
+                        436.70000000000005,
+                        213.86
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line5.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -8
+                },
+                {
+                    "name": "sta69",
+                    "coords": [
+                        436.70000000000005,
+                        265.65999999999997
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta16",
+                    "coords": [
+                        436.70000000000005,
+                        378.88
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta37",
+                    "coords": [
+                        436.70000000000005,
+                        418.84
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta132",
+                    "coords": [
+                        436.70000000000005,
+                        495.05999999999995
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta96",
+                    "coords": [
+                        455.4,
+                        543.16
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta10",
+                    "coords": [
+                        495.0,
+                        549.8199999999999
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,-4]
+                },
+                {
+                    "name": "sta43",
+                    "coords": [
+                        523.6,
+                        601.62
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line5.svg",
+                    "lineLabelPos": "N",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": 20
+                }
+            ]
+        },
+        {
+            "name": "U10",
+            "label": "U10",
+            "color": "#FF6600",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta157",
+                    "coords": [
+                        345.4,
+                        677.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line10.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -6
+                },
+                {
+                    "name": "sta114",
+                    "coords": [
+                        419.1,
+                        677.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta168",
+                    "coords": [
+                        466.4,
+                        677.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta135",
+                    "coords": [
+                        528.0,
+                        677.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta134",
+                    "coords": [
+                        579.7,
+                        677.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta85",
+                    "coords": [
+                        660.0,
+                        677.1
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta2",
+                    "coords": [
+                        728.2,
+                        664.52
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords":[0,4]
+                },
+                {
+                    "name": "sta4",
+                    "coords": [
+                        728.2,
+                        547.6
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords":[4,-2]
+                },
+                {
+                    "name": "sta103",
+                    "coords": [
+                        689.7,
+                        536.5
+                    ],
+                    "labelPos": "SE",
+                    "labelBold": true,
+                    "labelShiftCoords":[2,0]
+                },
+                {
+                    "name": "sta145",
+                    "coords": [
+                        632.5,
+                        519.48
+                    ],
+                    "labelPos": "SE",
+                    "labelBold": true,
+                    "labelShiftCoords":[2,0]
+                },
+                {
+                    "name": "sta88",
+                    "coords": [
+                        596.2,
+                        508.38
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta87",
+                    "coords": [
+                        596.2,
+                        465.46
+                    ],
+                    "labelPos": "NW",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,2]
+                },
+                {
+                    "name": "sta94",
+                    "coords": [
+                        596.2,
+                        407.0
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta64",
+                    "coords": [
+                        596.2,
+                        324.11999999999995
+                    ],
+                    "labelPos": "NW",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,2]
+                },
+                {
+                    "name": "sta7",
+                    "coords": [
+                        596.2,
+                        274.54
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta6",
+                    "coords": [
+                        596.2,
+                        228.66000000000003
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta8",
+                    "coords": [
+                        596.2,
+                        197.58000000000004
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta75",
+                    "coords": [
+                        596.2,
+                        155.39999999999998
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2]
+                },
+                {
+                    "name": "sta102",
+                    "coords": [
+                        596.2,
+                        92.5
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords":[-4,-2],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line10.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -6
+                }
+            ]
+        },
+        {
+            "name": "U11",
+            "label": "U11",
+            "color": "#080080",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta28",
+                    "coords": [
+                        88.0,
+                        668.22
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,4],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line11.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -6
+                },
+                {
+                    "name": "sta124",
+                    "coords": [
+                        126.5,
+                        668.22
+                    ],
+                    "labelPos": "N",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,4]
+                },
+                {
+                    "name": "sta99",
+                    "coords": [
+                        141.76400000000007,
+                        654.9
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta166",
+                    "coords": [
+                        169.74800000000002,
+                        630.48
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta36",
+                    "coords": [
+                        190.1,
+                        612.72
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta122",
+                    "coords": [
+                        214.69200000000004,
+                        591.26
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta77",
+                    "coords": [
+                        235.04400000000004,
+                        573.5
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta140",
+                    "coords": [
+                        287.62,
+                        527.62
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta111",
+                    "coords": [
+                        309.668,
+                        508.38
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta13",
+                    "coords": [
+                        326.62800000000004,
+                        493.58
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta70",
+                    "coords": [
+                        346.98,
+                        475.82
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [5,-2]
+                },
+                {
+                    "name": "sta55",
+                    "coords": [
+                        359.7,
+                        464.72
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta20",
+                    "coords": [
+                        398.2,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta23",
+                    "coords": [
+                        436.70000000000005,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta56",
+                    "coords": [
+                        475.2,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta118",
+                    "coords": [
+                        504.90000000000003,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta115",
+                    "coords": [
+                        540.1,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta15",
+                    "coords": [
+                        632.5,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta86",
+                    "coords": [
+                        680.9,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta46",
+                    "coords": [
+                        712.8000000000001,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta63",
+                    "coords": [
+                        742.5,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta3",
+                    "coords": [
+                        775.5,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta25",
+                    "coords": [
+                        804.1,
+                        463.98
+                    ],
+                    "labelPos": "S",
+                    "labelBold": true,
+                    "labelShiftCoords": [0,-4]
+                },
+                {
+                    "name": "sta146",
+                    "coords": [
+                        830.5,
+                        463.98
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta130",
+                    "coords": [
+                        859.1,
+                        448.44
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta120",
+                    "coords": [
+                        884.4000000000001,
+                        434.38
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta82",
+                    "coords": [
+                        918.5,
+                        412.18
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta164",
+                    "coords": [
+                        939.4,
+                        401.82
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta152",
+                    "coords": [
+                        977.9,
+                        380.36
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta45",
+                    "coords": [
+                        1013.1,
+                        358.15999999999997
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line11.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": 0,
+                    "lineLabelShiftY": -6
+                }
+            ]
+        },
+        {
+            "name": "U12",
+            "label": "U12",
+            "color": "#993367",
+            "shiftCoords": [
+                0,
+                0
+            ],
+            "nodes": [
+                {
+                    "name": "sta14",
+                    "coords": [
+                        231.0,
+                        104.34000000000003
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line12.svg",
+                    "lineLabelPos": "S",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": -8
+                },
+                {
+                    "name": "sta73",
+                    "coords": [
+                        247.5,
+                        126.54000000000008
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta148",
+                    "coords": [
+                        259.59999999999997,
+                        151.69999999999993
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta60",
+                    "coords": [
+                        257.40000000000003,
+                        161.30986301369825
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta91",
+                    "coords": [
+                        254.10000000000002,
+                        175.72465753424626
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta32",
+                    "coords": [
+                        246.4,
+                        209.3591780821916
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta116",
+                    "coords": [
+                        234.29999999999998,
+                        262.21342465753423
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta92",
+                    "coords": [
+                        225.5,
+                        300.65287671232863
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta31",
+                    "coords": [
+                        216.70000000000002,
+                        339.09232876712315
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta93",
+                    "coords": [
+                        210.1,
+                        367.9219178082192
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta72",
+                    "coords": [
+                        200.2,
+                        411.16630136986305
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta95",
+                    "coords": [
+                        190.29999999999998,
+                        454.410684931507
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta90",
+                    "coords": [
+                        179.3,
+                        502.46000000000004
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta26",
+                    "coords": [
+                        203.5,
+                        527.62
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta17",
+                    "coords": [
+                        225.5,
+                        548.34
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2]
+                },
+                {
+                    "name": "sta101",
+                    "coords": [
+                        257.94000000000005,
+                        551.5840000000001
+                    ],
+                    "labelPos": "NE",
+                    "labelBold": true,
+                    "labelShiftCoords": [3,6]
+                },
+                {
+                    "name": "sta136",
+                    "coords": [
+                        306.90000000000003,
+                        556.48
+                    ],
+                    "labelPos": "E",
+                    "labelBold": true,
+                    "labelShiftCoords": [4,-1]
+                },
+                {
+                    "name": "sta137",
+                    "coords": [
+                        319.0,
+                        602.36
+                    ],
+                    "labelPos": "W",
+                    "labelBold": true,
+                    "labelShiftCoords": [-5,-2],
+                    "lineLabel": true,
+                    "lineLabelPath": "labels/line12.svg",
+                    "lineLabelPos": "N",
+                    "lineLabelShiftX": -12,
+                    "lineLabelShiftY": 20
+                }
+            ]
+        }
+    ]
+}
