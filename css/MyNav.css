@@ -1,6 +1,21 @@
 #MyNav {
   border-radius: 0px;
 }
+@media (min-width: 768px) {
+  #MyNav .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  #MyNav .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  #MyNav .container {
+    width: 1170px;
+  }
+}
 @media (min-width: 1500px) {
   #MyNav .nav_container {
     width: 1250px;
@@ -15,6 +30,12 @@
   #MyNav .nav_container {
     width: 2200px;
   }
+}
+#MyNav .nav_container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 #MyNav .nav_container {
   display: flex;
@@ -46,7 +67,6 @@
 #MyNav .nav-list {
   display: flex;
   align-items: center;
-  margin-left: 40px;
 }
 #MyNav .nav-list li {
   display: flex;

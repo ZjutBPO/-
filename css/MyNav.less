@@ -1,4 +1,22 @@
 #MyNav {
+    @media (min-width: 768px) {
+        .container {
+            width: 750px;
+        }
+    }
+
+    @media (min-width: 992px) {
+        .container {
+            width: 970px;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        .container {
+            width: 1170px;
+        }
+    }
+
     @media (min-width: 1500px) {
         .nav_container {
             width: 1250px;
@@ -17,9 +35,16 @@
         }
     }
 
+    .nav_container {
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
     border-radius: 0px;
 
-    .nav_container{
+    .nav_container {
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -45,17 +70,16 @@
         color: black;
     }
 
-    #NowTime{
+    #NowTime {
         display: inline-block;
         font-size: 2rem;
         font-weight: 600;
     }
+
     // 导航栏
     .nav-list {
         display: flex;
         align-items: center;
-        
-        margin-left: 40px;
 
         li {
             display: flex;
@@ -67,7 +91,7 @@
                     height: 20px;
                     margin-right: 5px;
                 }
-    
+
                 display: flex;
                 justify-content: center;
                 align-items: center;
