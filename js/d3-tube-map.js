@@ -2,6 +2,8 @@
 // https://github.com/johnwalley/d3-tube-map
 
 var HIGHLIGHT = true;
+var xScale = d3.scaleLinear();
+var yScale = d3.scaleLinear();
 
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('d3')) :
@@ -115,8 +117,7 @@ var HIGHLIGHT = true;
     var margin = { top: 80, right: 80, bottom: 20, left: 80 };
     var width = 760;
     var height = 640;
-    var xScale = d3.scaleLinear();
-    var yScale = d3.scaleLinear();
+    
     var lineWidth;
     var lineWidthMultiplier = 0.7;
     var lineWidthTickRatio = 1;
@@ -198,7 +199,7 @@ var HIGHLIGHT = true;
           .style('width', '100%')
           .style('height', '100%');
 
-        gMap = svg.append('g');
+        gMap = svg.append('g').attr('id', 'TubeMap');
       });
     }
 

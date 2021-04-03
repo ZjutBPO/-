@@ -1,4 +1,4 @@
-#ubahn-map {
+#tube_map_2020 {
   width: 100%;
   height: 100%;
   margin: 0;
@@ -6,32 +6,32 @@
   font-family: "Helvetica Neue", "Helvetica", "Roboto", sans-serif;
   -webkit-text-size-adjust: 100%;
 }
-#ubahn-map .label {
+#tube_map_2020 .label {
   font-family: 'M+ 2p', sans-serif;
   font-size: 14px;
   cursor: pointer;
 }
-#ubahn-map :focus {
+#tube_map_2020 :focus {
   outline: 0;
 }
-#ubahn-map tspan {
+#tube_map_2020 tspan {
   white-space: pre;
 }
-#ubahn-map #sidebar {
+#tube_map_2020 #sidebar {
   height: 100%;
   position: absolute;
   background-color: #f3f3f3;
   display: none;
   z-index: 100;
 }
-#ubahn-map .fake-link,
-#ubahn-map #lines-for-station {
+#tube_map_2020 .fake-link,
+#tube_map_2020 #lines-for-station {
   font-size: 13px;
 }
-#ubahn-map #lines-for-station {
+#tube_map_2020 #lines-for-station {
   font-weight: bold;
 }
-#ubahn-map #sidebar-footer-container {
+#tube_map_2020 #sidebar-footer-container {
   padding: 0;
   justify-content: center;
   align-items: center;
@@ -43,13 +43,13 @@
   height: 30px;
   background-color: #f3f3f3;
 }
-#ubahn-map #sidebar-footer {
+#tube_map_2020 #sidebar-footer {
   margin: 0 35px 0 35px;
   height: 28px;
   border-top: 1px solid #808080;
   line-height: 28px;
 }
-#ubahn-map #sidebar-content-container {
+#tube_map_2020 #sidebar-content-container {
   padding: 0 35px 0 35px;
   position: absolute;
   top: 31px;
@@ -59,48 +59,48 @@
   font-size: 15px;
   background-color: #f3f3f3;
 }
-#ubahn-map #sidebar-content-container p {
+#tube_map_2020 #sidebar-content-container p {
   line-height: 20px;
 }
-#ubahn-map img {
+#tube_map_2020 img {
   max-width: 100%;
 }
-#ubahn-map a:link,
-#ubahn-map a:visited,
-#ubahn-map a:hover,
-#ubahn-map a:active {
+#tube_map_2020 a:link,
+#tube_map_2020 a:visited,
+#tube_map_2020 a:hover,
+#tube_map_2020 a:active {
   color: black;
 }
-#ubahn-map #wiki-content a {
+#tube_map_2020 #wiki-content a {
   font-size: 12px;
 }
-#ubahn-map #sidebar-header {
+#tube_map_2020 #sidebar-header {
   margin: 0 35px 0 35px;
   height: 30px;
   border-bottom: 1px solid #808080;
   line-height: 30px;
 }
-#ubahn-map #close-link-container {
+#tube_map_2020 #close-link-container {
   float: right;
   width: 30%;
   text-align: right;
 }
-#ubahn-map #lines-for-station-container {
+#tube_map_2020 #lines-for-station-container {
   float: left;
   width: 30%;
 }
-#ubahn-map #navigator-container {
+#tube_map_2020 #navigator-container {
   display: inline-block;
   margin: 0 auto;
   text-align: center;
   width: 40%;
 }
-#ubahn-map .addendum {
+#tube_map_2020 .addendum {
   font-size: 12px;
   font-style: italic;
   text-align: left;
 }
-#ubahn-map .footer-container {
+#tube_map_2020 .footer-container {
   padding: 0;
   margin: 0;
   display: flex;
@@ -112,36 +112,36 @@
   opacity: 0.94;
   color: #101010;
 }
-#ubahn-map .main-footer {
+#tube_map_2020 .main-footer {
   position: fixed;
   bottom: 0;
 }
-#ubahn-map .header a,
-#ubahn-map .footer a {
+#tube_map_2020 .header a,
+#tube_map_2020 .footer a {
   text-decoration: none;
 }
-#ubahn-map .header a:hover,
-#ubahn-map .footer a:hover {
+#tube_map_2020 .header a:hover,
+#tube_map_2020 .footer a:hover {
   text-decoration: underline;
 }
-#ubahn-map #footer-left,
-#ubahn-map #footer-right,
-#ubahn-map #footer-center {
+#tube_map_2020 #footer-left,
+#tube_map_2020 #footer-right,
+#tube_map_2020 #footer-center {
   display: flex;
   padding: 3px 2px 3px 2px;
 }
-#ubahn-map #footer-left {
+#tube_map_2020 #footer-left {
   flex: 1;
   text-align: right;
   display: block;
 }
-#ubahn-map #footer-center {
+#tube_map_2020 #footer-center {
   font-weight: bold;
 }
-#ubahn-map #footer-right {
+#tube_map_2020 #footer-right {
   flex: 1;
 }
-#ubahn-map #info-page-container {
+#tube_map_2020 #info-page-container {
   margin: 0 auto;
   max-width: 820px;
   padding: 30px;
@@ -149,45 +149,45 @@
   font-size: 15px;
   padding-bottom: 40px;
 }
-#ubahn-map .main-footer {
+#tube_map_2020 .main-footer {
   background-color: white;
 }
-#ubahn-map #info-page {
+#tube_map_2020 #info-page {
   background-color: #f3f3f3;
 }
-#ubahn-map hr {
+#tube_map_2020 hr {
   border: 0;
   height: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
-#ubahn-map .checkbox {
+#tube_map_2020 .checkbox {
   padding-bottom: 5px;
 }
-#ubahn-map .checkbox input[type="checkbox"] {
+#tube_map_2020 .checkbox input[type="checkbox"] {
   opacity: 0;
   position: absolute;
 }
-#ubahn-map .checkbox label {
+#tube_map_2020 .checkbox label {
   position: relative;
   display: inline-block;
   padding-left: 22px;
   line-height: 22px;
 }
-#ubahn-map .checkbox label::before,
-#ubahn-map .checkbox label::after {
+#tube_map_2020 .checkbox label::before,
+#tube_map_2020 .checkbox label::after {
   position: absolute;
   content: "";
   display: inline-block;
 }
-#ubahn-map .checkbox label::before {
+#tube_map_2020 .checkbox label::before {
   height: 16px;
   width: 16px;
   border: 1px solid;
   left: 0px;
   top: 3px;
 }
-#ubahn-map .checkbox label::after {
+#tube_map_2020 .checkbox label::after {
   height: 5px;
   width: 9px;
   border-left: 2px solid;
@@ -196,16 +196,16 @@
   left: 4px;
   top: 7px;
 }
-#ubahn-map .checkbox input[type="checkbox"] + label::after {
+#tube_map_2020 .checkbox input[type="checkbox"] + label::after {
   content: none;
 }
-#ubahn-map .checkbox input[type="checkbox"]:checked + label::after {
+#tube_map_2020 .checkbox input[type="checkbox"]:checked + label::after {
   content: "";
 }
-#ubahn-map .checkbox input[type="checkbox"]:focus + label::before {
+#tube_map_2020 .checkbox input[type="checkbox"]:focus + label::before {
   outline: #3b99fc auto 5px;
 }
-#ubahn-map label {
+#tube_map_2020 label {
   -webkit-user-select: none;
   -khtml-user-select: none;
   -moz-user-select: none;
@@ -214,6 +214,6 @@
   user-select: none;
   cursor: pointer;
 }
-#ubahn-map .sbahn {
+#tube_map_2020 .sbahn {
   font-family: Glyphter;
 }
