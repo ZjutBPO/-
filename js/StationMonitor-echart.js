@@ -10,9 +10,9 @@
                 type: 'pie',
                 radius: ['55%', '70%'],
                 data: [
-                    { value: 1048, name: '出站闸机1' },
-                    { value: 735, name: '出站闸机2' },
-                    { value: 580, name: '进站闸机2' }
+                    { value: 1048, name: 'Sta1' },
+                    { value: 735, name: 'Sta2' },
+                    { value: 580, name: 'Sta3' }
                 ],
                 emphasis: {
                     itemStyle: {
