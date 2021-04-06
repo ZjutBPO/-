@@ -37,12 +37,16 @@ function addHighlight(station) {
   window.focusStations = station;
 }
 
+function StationClick(data){
+  addHighlight(data);
+}
+
 var map = d3
   .tubeMap()
   .width(width)
   .height(height)
   .on('click', function (data) {
-    addHighlight(data);
+    StationClick(data);
   });
 
 d3.json('./json/subway.json').then(function (data) {

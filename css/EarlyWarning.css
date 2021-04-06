@@ -31,28 +31,6 @@ body {
   justify-content: space-around;
   align-items: center;
 }
-#MainBody .left_part p {
-  font-size: 1.6rem;
-}
-#MainBody .left_part .left_part_title {
-  font-size: 2rem;
-  font-weight: 600;
-  letter-spacing: 1px;
-}
-#MainBody .left_part .statistic_num {
-  display: flex;
-  width: 100%;
-  justify-content: space-around;
-}
-#MainBody .left_part .chart_style {
-  width: 100%;
-  flex: 1;
-}
-#MainBody .left_part #chart3 {
-  width: 100%;
-  flex: 2;
-  color: #FFFFFF;
-}
 #MainBody .right_part {
   width: 80%;
   height: 100%;
