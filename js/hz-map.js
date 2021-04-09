@@ -46,11 +46,11 @@ var map = d3
   });
 
 d3.json('./json/HZsubway.json').then(function (data) {
-  console.log(data);
+  // console.log(data);
   container.datum(data).call(map);
   var _data = map.data();
-  console.log(_data);
-  console.log(Cookies.get());
+  // console.log(_data);
+  // console.log(Cookies.get());
   map.drawAll(Cookies.get());
 
   var svg = container.select('svg');
@@ -100,9 +100,9 @@ const renderUpdate = function (data) {
 }
 
 function heatmap(data) {
-  console.log("Draw heatmap");
+  // console.log("Draw heatmap");
   let circle_size = getComputedStyle(document.documentElement).getPropertyValue('--circle_size');
-  console.log("circle_size = " + circle_size);
+  // console.log("circle_size = " + circle_size);
   var station_position = []
   for (let key in data["stations"]) {
     let item = data["stations"][key];
@@ -113,9 +113,9 @@ function heatmap(data) {
         "num": Math.floor(Math.random() * circle_size)
       });
   }
-  console.log(station_position);
+  // console.log(station_position);
   const g = d3.select('#TubeMap');
-  console.log(g);
+  // console.log(g);
   g.append('g')
     .selectAll('circle')
     .data(station_position)

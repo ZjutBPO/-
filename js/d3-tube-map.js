@@ -158,10 +158,10 @@ var yScale = d3.scaleLinear();
               return node.coords[1];
             });
           }) + 1;
-        console.log("minX = " + minX);
-        console.log("maxX = " + maxX);
-        console.log("minY = " + minY);
-        console.log("maxY = " + maxY);
+        // console.log("minX = " + minX);
+        // console.log("maxX = " + maxX);
+        // console.log("minY = " + minY);
+        // console.log("maxY = " + maxY);
         
         var desiredAspectRatio = (maxX - minX) / (maxY - minY);
         var actualAspectRatio =
@@ -181,8 +181,8 @@ var yScale = d3.scaleLinear();
           maxYRange = height - margin.top - margin.bottom;
         }
 
-        console.log("xScale from [" + minX + "," + maxX + "] to [" + margin.left + "," + (margin.left + maxXRange).toString() + "]");
-        console.log("yScale from [" + minY + "," + maxY + "] to [" + (margin.top + maxYRange).toString() + "," + margin.top + "]");
+        // console.log("xScale from [" + minX + "," + maxX + "] to [" + margin.left + "," + (margin.left + maxXRange).toString() + "]");
+        // console.log("yScale from [" + minY + "," + maxY + "] to [" + (margin.top + maxYRange).toString() + "," + margin.top + "]");
         xScale.domain([minX, maxX]).range([margin.left, margin.left + maxXRange]);
         yScale.domain([minY, maxY]).range([margin.top + maxYRange, margin.top]);
 
@@ -396,7 +396,7 @@ var yScale = d3.scaleLinear();
     }
 
     function drawLabels(drawSbahn) {
-      console.log("lineWidth = " + lineWidth);
+      // console.log("lineWidth = " + lineWidth);
       gMap
         .append('g')
         .selectAll('text')

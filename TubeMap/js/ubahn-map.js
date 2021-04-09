@@ -52,11 +52,11 @@ var map = d3
 
 // d3.json('./json/berlin-ubahn.json').then(function (data) {
 d3.json('./json/subway.json').then(function (data) {
-  console.log(data);
+  // console.log(data);
   container.datum(data).call(map);
   var _data = map.data();
-  console.log(_data);
-  console.log(Cookies.get());
+  // console.log(_data);
+  // console.log(Cookies.get());
   map.drawAll(Cookies.get());
 
   var svg = container.select('svg');
