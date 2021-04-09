@@ -29,6 +29,7 @@ body {
   height: 100%;
   flex-direction: column;
   align-items: center;
+  margin-right: 10px;
 }
 #MainBody .left_part .alert-message {
   width: 100%;

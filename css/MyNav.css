@@ -71,19 +71,46 @@
 #MyNav .nav-list li {
   position: relative;
   display: flex;
-  margin: 0px 6px;
+  margin: 0px 15px;
 }
 #MyNav .nav-list li .nav_button {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 16px;
+  font-size: 2rem;
   color: black;
 }
 #MyNav .nav-list li .nav_button .icon {
   width: 2rem;
   height: 2rem;
   margin-right: 5px;
+}
+#MyNav .nav-list li sup {
+  position: absolute;
+  top: -16px;
+  right: -20px;
+  background-color: #ff3b30;
+  border-radius: 10px;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  height: 18px;
+  line-height: 18px;
+  padding: 0 6px;
+  text-align: center;
+  white-space: nowrap;
+  animation: HaveMessage 1.5s infinite;
+}
+@keyframes HaveMessage {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(3px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
 }
 #MyNav .nav-list li .nav_button::after,
 #MyNav .nav-list li .nav_button::before {

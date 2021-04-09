@@ -30,6 +30,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  margin-right: 10px;
 }
 #MainBody .left_part p {
   font-size: 1.6rem;
