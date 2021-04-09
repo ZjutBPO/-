@@ -9,49 +9,40 @@
     <script src="./js/bootstrap.js"></script>
     <script src="./js/vendor/d3.v5.js"></script>
     <title>Bootstrap</title>
-    <style>
-        .h-bar {
-            background-color: pink;
-        }
-    </style>
 </head>
 
 <body>
-
+    <div class="alert alert-success alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert"
+                aria-hidden="true">
+            &times;
+        </button>
+        成功！很好地完成了提交。
+    </div>
+    <div class="alert alert-info alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert"
+                aria-hidden="true">
+            &times;
+        </button>
+        信息！请注意这个信息。
+    </div>
+    <div class="alert alert-warning alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert"
+                aria-hidden="true">
+            &times;
+        </button>
+        警告！请不要提交。
+    </div>
+    <div class="alert alert-danger alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert"
+                aria-hidden="true">
+            &times;
+        </button>
+        错误！请进行一些更改。
+    </div>
+      
 </body>
 <script>
-    var data = [10, 15, 24, 23, 12];
-    //进入（enter）
-    d3.select("body").selectAll("div.h-bar")
-        .data(data)
-        .enter()
-        .append("div").attr("class", "h-bar").append("span");
-
-    console.log(1);
-    setTimeout(() => {
-        console.log(2);
-        data = [20, 30, 40, 50, 60]
-        //更新（update）
-        d3.select("body").selectAll("div.h-bar")
-            .data(data)
-            .style("width", function (d) {
-                return (d * 3) + "px";
-            })
-            .select("span")
-            .text(function (d) {
-                return d;
-            })
-    }, 1500);
-
-    setTimeout(() => {
-        console.log(3);
-        data = [20,30,40]
-        d3.select("body").selectAll("div.h-bar")
-            .data(data)
-            .exit()
-            .remove();
-    }, 3000);
-    //退出（exit）
 </script>
 
 </html>

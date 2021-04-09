@@ -4,7 +4,7 @@ var height = $("#hz_map").height();
 
 var container = d3.select('#hz_map');
 var focusStations;
-
+var station_position = []
 
 // Helper to concatenate strings without the plus sign
 function concat() {
@@ -37,20 +37,21 @@ function addHighlight(station) {
   window.focusStations = station;
 }
 
+function StationClick(data) {
+  addHighlight(data);
+}
+
 var map = d3
   .tubeMap()
   .width(width)
   .height(height)
   .on('click', function (data) {
-    addHighlight(data);
+    StationClick(data);
   });
 
 d3.json('./json/HZsubway.json').then(function (data) {
-  // console.log(data);
   container.datum(data).call(map);
   var _data = map.data();
-  // console.log(_data);
-  // console.log(Cookies.get());
   map.drawAll(Cookies.get());
 
   var svg = container.select('svg');
@@ -75,7 +76,17 @@ d3.json('./json/HZsubway.json').then(function (data) {
     svg.select('g').attr('transform', d3.event.transform.toString());
   }
 
-  heatmap(data)
+  for (let key in data["stations"]) {
+    let item = data["stations"][key];
+    station_position.push({
+      "name": item["name"],
+      "x": item["x"],
+      "y": item["y"],
+      "num": Math.floor(Math.random() * 50)
+    });
+  }
+
+  heatmap(station_position);
 });
 
 var colors = ["#008200", "#00CFCD", "#FF0000", "#008280", "#FEFF00", "#FF6600", "#080080", "#993367"]
@@ -99,33 +110,49 @@ const renderUpdate = function (data) {
     .attr('r', d => d["num"])
 }
 
-function heatmap(data) {
-  // console.log("Draw heatmap");
-  let circle_size = getComputedStyle(document.documentElement).getPropertyValue('--circle_size');
-  // console.log("circle_size = " + circle_size);
-  var station_position = []
-  for (let key in data["stations"]) {
-    let item = data["stations"][key];
-    station_position.push({
-        "name": item["name"],
-        "x": item["x"],
-        "y": item["y"],
-        "num": Math.floor(Math.random() * circle_size)
-      });
-  }
-  // console.log(station_position);
+function heatmap(station_position) {
+
   const g = d3.select('#TubeMap');
-  // console.log(g);
   g.append('g')
     .selectAll('circle')
     .data(station_position)
     .enter()
     .append('circle')
-    .attr("class","heatmap_circle")
+    .attr("class", "heatmap_circle")
     .attr('cx', d => xScale(d['x']))
     .attr('cy', d => yScale(d['y']))
     .attr('r', d => d["num"])
     .attr('fill', 'red')
     .attr('opacity', 0.4)
   // renderUpdate(station_position);
+}
+
+// 只用ajax取到数据后直接调用该函数即可
+// res要求为[{"name":sta114,"num":40},……]这样子的格式
+function ChangeHeatMap(res) {
+  let circle_size = getComputedStyle(document.documentElement).getPropertyValue('--circle_size');
+  let maxnum = -1, minnum = 2147483647;
+  for (let item in res) {
+    maxnum = Math.max(res[item]["num"], maxnum)
+    minnum = Math.min(res[item]["num"], minnum)
+  }
+  for (let item1 in station_position) {
+    for (let item in res) {
+      if (station_position[item1]["name"] == res[item]["name"]) {
+        station_position[item1]["num"] = (res[item]["num"] - minnum) / (maxnum - minnum) * circle_size
+      }
+    }
+  }
+  const g = d3.select('#TubeMap');
+  g.selectAll('circle')
+    .data(station_position)
+    .transition()
+    .duration(1000)
+    .attr("class", "heatmap_circle")
+    .attr('cx', d => xScale(d['x']))
+    .attr('cy', d => yScale(d['y']))
+    .attr('r', d => d["num"])
+    .attr('fill', 'red')
+    .attr('opacity', 0.4)
+  console.log(1);
 }

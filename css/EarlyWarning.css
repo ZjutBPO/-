@@ -28,8 +28,10 @@ body {
   width: 20%;
   height: 100%;
   flex-direction: column;
-  justify-content: space-around;
   align-items: center;
+}
+#MainBody .left_part .alert-message {
+  width: 100%;
 }
 #MainBody .right_part {
   width: 80%;
