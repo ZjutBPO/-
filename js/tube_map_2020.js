@@ -127,6 +127,8 @@ function heatmap(station_position) {
   // renderUpdate(station_position);
 }
 
+// 只用ajax取到数据后直接调用该函数即可
+// res要求为[{"name":sta114,"num":40},……]这样子的格式
 function ChangeHeatMap(res) {
   let circle_size = getComputedStyle(document.documentElement).getPropertyValue('--circle_size');
   let maxnum = -1, minnum = 2147483647;
