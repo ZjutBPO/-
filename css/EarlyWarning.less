@@ -20,17 +20,28 @@ body {
     height: calc(100vh - var(--nav-height) - 22px);
     display: flex;
 
-    // flex-direction: column;
-    .left_part {
+    .left_part{
         display: flex;
-        float: left;
         width: 20%;
         height: 100%;
         flex-direction: column;
         align-items: center;
         margin-right: 10px;
-        .alert-message{
+
+        .message_part {
+            display: flex;
             width: 100%;
+            height: 90%;
+            flex-direction: column;
+            align-items: center;
+            .alert-message{
+                width: 100%;
+            }
+        }
+
+        .turn_page{
+            height: 40px;
+            margin-bottom: 0px;
         }
     }
 

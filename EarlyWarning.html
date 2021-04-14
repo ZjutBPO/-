@@ -39,7 +39,7 @@
                                 p-id="6532" fill="#8a8a8a"></path>
                         </svg>
                         <span>预警调控</span>
-                        <sup>10</sup>
+                        <sup id = "MessageNum">10</sup>
                     </a></li>
                 <li><a href="#" class="nav_button">
                         <svg t="1616488349115" class="icon" viewBox="0 0 1024 1024" version="1.1"
@@ -70,30 +70,42 @@
     </nav>
     <div id="MainBody">
         <div class="left_part">
-            <div class="alert alert-success alert-dismissable alert-message">
-                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-                    &times;
-                </button>
-                <p>sta15预警解除</p>
+            <div class = "message_part">
+                <!-- <div class="alert alert-success alert-dismissable alert-message">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                        &times;
+                    </button>
+                    <p>sta15预警解除</p>
+                </div> 
+                <div class="alert alert-info alert-dismissable alert-message">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                        &times;
+                    </button>
+                    <p>不知道写啥</p>
+                </div>
+                <div class="alert alert-warning alert-dismissable alert-message">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                        &times;
+                    </button>
+                    <p>sta15在接下来15分钟有较大客流</p>
+                </div>-->
+                <div class="alert alert-danger alert-dismissable alert-message">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+                        &times;
+                    </button>
+                    <p>sta15在接下来15分钟有大量客流</p>
+                </div> 
             </div>
-            <div class="alert alert-info alert-dismissable alert-message">
-                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-                    &times;
-                </button>
-                <p>不知道写啥</p>
-            </div>
-            <div class="alert alert-warning alert-dismissable alert-message">
-                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-                    &times;
-                </button>
-                <p>sta15在接下来15分钟有较大客流</p>
-            </div>
-            <div class="alert alert-danger alert-dismissable alert-message">
-                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-                    &times;
-                </button>
-                <p>sta15在接下来15分钟有大量客流</p>
-            </div>
+            <ul class="pagination turn_page" id = "turn-page-list">
+                <li class="active"><a href="#">1</a></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li><a href="#">6</a></li>
+                <li><a href="#">7</a></li>
+                <li><a href="#">8</a></li>
+            </ul>
         </div>
         <div class="right_part">
             <div class="button_list">
@@ -108,12 +120,7 @@
     <script src="./js/vendor/d3.v5.js"></script>
     <script src="./js/d3-tube-map.js"></script>
     <script src="./js/hz-map.js"></script>
-    <script>
-        $("#ShowHeatMap").click(function () {
-            $(".heatmap_circle").toggle();
-        })
-    </script>
-
+    <script src="./js/EarlyWarning.js"></script>
 </body>
 
 </html>

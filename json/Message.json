@@ -1,0 +1,23 @@
+[
+    {
+        "StationName": "sat80",
+        "AverageFlow": 100,
+        "PredictFlow": 120,
+        "TimeStamp":"2019-01-01"
+    },
+    {
+        "StationName": "sat80",
+        "AverageFlow": 100,
+        "PredictFlow": 120
+    },
+    {
+        "StationName": "sat80",
+        "AverageFlow": 100,
+        "PredictFlow": 120
+    },
+    {
+        "StationName": "sat80",
+        "AverageFlow": 100,
+        "PredictFlow": 120
+    }
+]
